@@ -1,6 +1,6 @@
 ## Segue o passa a passo para executar a aplicação:
 
-1º Abrir a pasta no Visual Studio Code.
+1º Baixe o arquivo .rar e abra a pasta no Visual Studio Code.
 
 2º Executar o arquivo 'servidor.py' que está dentro da pasta 'pservidor'.
 
