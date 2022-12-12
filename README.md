@@ -1,4 +1,4 @@
-##Segue o passa a passo para executar a aplicação:
+## Segue o passa a passo para executar a aplicação:
 
 1º Abrir a pasta no Visual Studio Code.
 
