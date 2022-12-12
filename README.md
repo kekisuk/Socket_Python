@@ -1,5 +1,3 @@
-## Dupla: Fca Kelen Ferreira dos Santos e Thiago Natalys Ribeiro Silva
-
 #Segue o passa a passo para executar a aplicação:
 
 1º Abrir a pasta no Visual Studio Code.
