@@ -1,4 +1,4 @@
-# Dupla: Francisca Kelen Ferreira dos Santos e Thiago Natalys Ribeiro Silva
+# Dupla: Fca Kelen Ferreira dos Santos e Thiago Natalys Ribeiro Silva
 
 Segue o passa a passo para executar a aplicação:
 
