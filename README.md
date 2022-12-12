@@ -1,2 +1,9 @@
-# Socket_Python
-Trabalho final da disciplina de Redes de Computadores, aplicação de um cliente servidor para o envio e recebimento de arquivos.
+# Francisca Kelen Ferreira dos Santos e Thiago Natalys Ribeiro Silva
+
+Segue o passa a passo para executar a aplicação:
+
+1º 
+2º
+3º
+4º
+5º
